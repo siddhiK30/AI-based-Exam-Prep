@@ -1,0 +1,17 @@
+
+1. Import the Required Libraries
+
+2. import os
+
+3. import google.generativeai as genai
+
+4. pip install google-generativeai
+
+5. python
+
+6. pip install python-dotenv
+
+
+for Groq:
+
+Install Groq package: pip install groq
